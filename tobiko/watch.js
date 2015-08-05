@@ -3,7 +3,7 @@ module.exports = {
 		livereload: '<%= livereload %>' || 35729
 	},
 	css: {
-		files: ['sass/**/*.scss'],
+		files: ['scss/**/*.scss'],
 		tasks: ['sass:dev', 'autoprefixer:dev']
 	},
 	contents: {
