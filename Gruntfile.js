@@ -15,7 +15,7 @@ module.exports = function (grunt) {
             options: {
                 base: '<%= buildPath %>',
 				branch: 'master',
-				repo: 'git@github.com:semicolonworks/semicolon.works.git'
+				repo: 'git@github.com:semicolonworks/semicolonworks.github.io.git'
             },
             src: ['**/*']
         }
