@@ -1,0 +1,5 @@
+{
+	"port": 4001,
+	"livereload": 35729,
+	"buildPath": "build/www"
+}
